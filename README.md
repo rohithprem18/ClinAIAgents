@@ -18,6 +18,8 @@ Install dependencies:
 ```powershell
 pip install -r requirements.txt
 ```
+## Demo
+https://github.com/user-attachments/assets/6c08a06c-d3e9-479c-af26-c1a236463f5e
 
 ## Usage
 1. Create a `.env` file in the project root with your Google API key:
